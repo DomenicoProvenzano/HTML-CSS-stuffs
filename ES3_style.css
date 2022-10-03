@@ -1,0 +1,23 @@
+#s0{
+    background-color: darkgrey;
+}
+
+#s1{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    color:darkgoldenrod;
+}
+
+h3{
+   font-style: italic; 
+}
+
+hr{
+    background-color:darkgoldenrod; height: 5px;
+}
